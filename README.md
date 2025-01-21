@@ -65,7 +65,7 @@ Rewards are assigned based on the following events:
 
 
 ## Others:
-- Evaluate the model every `25000-50000` iterations, since the `Avg Rewards` you will see logged are highly influenced by the `ε-greedy` policy in the training phase. In future iterations, an automatic process will be added after a fixed numbers of iterations.
+- Evaluate the model every `25000-50000` iterations, since the `Avg Rewards` you will see logged are highly influenced by the `ε-greedy` policy in the training phase. In future iterations, an automatic process will be added to evaluate the model after a fixed numbers of iterations.
 - The `ε` intervals were chosen due to the unique space that `Flappy-Bird` has. Starting with `ε=1` will make the agent flap too much, reaching the top of the screen way too often. Thus, starting with `ε=0.2` was chosen by trial-and-error.
 
 ## Acknowledgments:
