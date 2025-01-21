@@ -62,6 +62,7 @@ Rewards are assigned based on the following events:
 - **+1**: Awarded for successfully passing through a pipe.
 - **+0.1**: Granted for surviving each frame
 - **-0.5**: Penalized for hitting the top of the screen
+- **-1**: Penalized for hitting a pipe.
 
 
 ## Others:
