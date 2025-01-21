@@ -70,4 +70,4 @@ Rewards are assigned based on the following events:
 - The `ε` intervals were chosen due to the unique space that `Flappy-Bird` has. Starting with `ε=1` will make the agent flap too much, reaching the top of the screen way too often. Thus, starting with `ε=0.2` was chosen by trial-and-error.
 
 ## Acknowledgments:
-The Flappy Bird environment was largely based by the incredible work in the [DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird) repository by [yenchenlin](https://github.com/yenchenlin).
+The Flappy Bird environment was largely based on the incredible work in the [DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird) repository by [yenchenlin](https://github.com/yenchenlin).
